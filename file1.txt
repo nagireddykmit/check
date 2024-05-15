@@ -1,1 +1,2 @@
-hello
+hello CDM module
+welcome to 1001_fix
